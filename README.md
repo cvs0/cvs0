@@ -1,4 +1,12 @@
-Core developer --------------  I am a programmer who enjoys coding in Java, TypeScript, Javascript, C++, and C#.  * 🌍  I'm based in Alberta, Canada * 🖥️  See my portfolio at [My website](http://www.cvs0.xyz) * ✉️  You can contact me at [cvs00@duck.com](mailto:cvs00@duck.com) * 🚀  I'm currently working on [CVSCode](http://www.cvs0.xyz/projects/cvscode/) * 🧠  I'm learning Frontend development, UI / UX
+Core developer
+--------------  
+I am a programmer who enjoys coding in Java, TypeScript, Javascript, C++, and C#.
+
+* 🌍  I'm based in Alberta, Canada
+* 🖥️  See my portfolio at [My website](http://www.cvs0.xyz)
+* ✉️  You can contact me at [cvs00@duck.com](mailto:cvs00@duck.com)
+* 🚀  I'm currently working on [CVSCode](http://www.cvs0.xyz/projects/cvscode/)
+* 🧠  I'm learning Frontend development, UI / UX
 
 <a href="https://www.github.com/cvs0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/cvs0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/cvs0_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/cvs0_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
