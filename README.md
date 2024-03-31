@@ -1,6 +1,6 @@
 Full Stack Developer
 --------------  
-Java, TypeScript, Javascript, C++, and C# programmer.
+Java, TypeScript, Javascript, C++, python, and C# programmer.
 
 * 🌍  I'm based in Alberta, Canada
 * 🖥️  See my portfolio at [My website](http://www.cvs0.xyz)
