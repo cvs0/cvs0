@@ -1,58 +1,73 @@
-Full Stack Developer
---------------  
-Java, TypeScript, Javascript, C++, python, and C# programmer.
+<div id="badges" align="center">
+ <a href="https://discordapp.com/users/1147380185893716068">
+  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+ </a>
+ <a href="https://www.youtube.com/@cvs0_">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+ </a>
+ <a href="https://twitter.com/cvs0_">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ </a>
+</div>
 
-* 🌍  I'm based in Alberta, Canada
-* 🖥️  See my portfolio at [My website](http://www.cvs0.xyz)
-* 🚀  I'm currently working on [LockScript]([http://www.cvs0.xyz/projects/cvscode/](https://github.com/cvs0/LockScript/tree/main))
-* 🧠  I'm learning Frontend development, UI / UX
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=cvs0&style=flat-square&color=blue" alt=""/>
+</div>
 
-<a href="https://www.github.com/cvs0" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/cvs0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### Projects
+<div align="center">
+ <img src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" width="480" height="270" />
+</div>
 
-* NodeAuth+ - A very secure NodeJS authentication system.
+<div>
+  <h3><b>👨‍💻 About me:</b></h3>
+</div>
 
-* CVSCode - A fast scripting language programmed in Typescript.
+<ul>
+  <li>
+    <h3><b>About me:</b></h3>
+    <p>Hi there! I'm a <b>Full-stack developer</b> 🚀 with a passion for <b>React</b> <img src="https://example.com/react.gif" width="30px" alt="React Logo" /> and all things web.</p>
+  </li>
+  <li>
+    <h3><b>Location:</b></h3>
+    <p>I am based in Alberta, Canada 🍁.</p>
+  </li>
+  <li>
+    <h3><b>Interests:</b></h3>
+    <p>:seedling: Exploring Electron.</p>
+    <p>:zap: In my free time, I code <b>Full-stack web applications</b></p>
+  </li>
+  <li>
+    <h3><b>Contact:</b></h3>
+    <p>:mailbox: How to reach me: <a href="mailto:cvs0@ogmc.store"><img src="https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white" alt="Email Badge"></a></p>
+  </li>
+</ul>
 
-* ShredPro - A file shredder for Windows 10/11, and a disk cleaner.
+### :hammer_and_wrench: Languages and Tools :
 
-* CVSEngine - A fast, configurable, and easy to learn game engine coded in Java.
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
+</div>
 
-* LockScript - A secure password manager written in Typescript.
+### :fire: My Stats :
 
-* CvsTrainer - A native trainer menu for RDR2.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cvs0&theme=dark&background=000000)](https://git.io/streak-stats)
 
-* PulseCord - A full-stack discord clone.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvs0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-* TerminalSite - A terminal / console themed portfolio website.
-
-### Skills  
-
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> </p> 
- 
- ### Socials
-
- 
-<p align="left">
-    <a href="https://www.github.com/cvs0" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>
-    </a>
-</p>
- 
- ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cvs0"><img src="https://github-readme-stats.vercel.app/api?username=cvs0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cvs0's GitHub stats" /></a>
-<a href="http://www.github.com/cvs0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cvs0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/cvs0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvs0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-Top Repositories
-
-<div width="100%" align="center">
-    <a href="https://github.com/cvs0/CVSCode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cvs0&repo=CVSCode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-    <a href="https://github.com/cvs0/cvsEngine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cvs0&repo=cvsEngine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div><br /><br /><br /><br /><br /><br /><br />
