@@ -66,6 +66,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-original.svg" title="axios" **alt="axios" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
