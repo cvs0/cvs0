@@ -68,6 +68,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="axios" **alt="axios" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" **alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" **alt="Axios" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" **alt="Cloudflare" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
