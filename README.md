@@ -83,3 +83,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvs0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### :zap: My future plans
+
+* Development of LockScript
+  * LockScript is a cyber-security website with many services, such as encrypted email, fully encrypted password manager, an encrypted drive, and an encrypted calender.
