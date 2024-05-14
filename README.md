@@ -45,6 +45,20 @@
     <h3><b>Contact:</b></h3>
     <p>:mailbox: How to reach me: <a href="mailto:cvs0@ogmc.store"><img src="https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white" alt="Email Badge"></a></p>
   </li>
+  <li>
+    <h3><b>Currently learning:</b></h3>
+    <ul>
+      <li>
+        * Zod
+      </li>
+      <li>
+        * Figma
+      </li>
+      <li>
+        * Tanstack
+      </li>
+    </ul>
+  </li>
 </ul>
 
 ### :hammer_and_wrench: Languages and Tools :
