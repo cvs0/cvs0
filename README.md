@@ -49,13 +49,13 @@
     <h3><b>Currently learning:</b></h3>
     <ul>
       <li>
-        * Zod
+        Zod
       </li>
       <li>
-        * Figma
+        Figma
       </li>
       <li>
-        * Tanstack
+        Tanstack
       </li>
     </ul>
   </li>
