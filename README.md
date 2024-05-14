@@ -75,7 +75,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.IO" **alt="Socket.IO" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" **alt="Vercel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tanstack/tanstack-original.svg" title="Tanstack" **alt="Tanstack" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
