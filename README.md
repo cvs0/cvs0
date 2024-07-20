@@ -30,7 +30,7 @@
 <ul>
   <li>
     <h3><b>About me:</b></h3>
-    <p>Hi there! I'm a <b>Full-stack developer</b> 🚀 with a passion for <b>React</b> <img src="https://example.com/react.gif" width="30px" alt="React Logo" /> and all things web. Owner @LockScript.</p>
+    <p>Hi there! I'm a <b>Full-stack developer</b> 🚀 with a passion for <b>React</b> and all things web. Owner @LockScript.</p>
   </li>
   <li>
     <h3><b>Location:</b></h3>
