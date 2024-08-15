@@ -33,10 +33,6 @@
     <p>Hi there! I'm a <b>Full-stack developer</b> 🚀 with a passion for <b>React</b> and all things web. Owner @LockScript.</p>
   </li>
   <li>
-    <h3><b>Location:</b></h3>
-    <p>I am based in Alberta, Canada 🍁.</p>
-  </li>
-  <li>
     <h3><b>Interests:</b></h3>
     <p>:seedling: Exploring Electron.</p>
     <p>:zap: In my free time, I code <b>Full-stack web applications</b></p>
