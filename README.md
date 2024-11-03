@@ -15,6 +15,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🚀 Employed At
+
+- **[LockScript](https://github.com/LockScript)** - ***OWNER**
+- **[Cutz](https://github.com/CutzTeam)** - ***CTO**
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cvs0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
