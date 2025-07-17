@@ -64,6 +64,7 @@
 ### 🚀 Employed At
 
 - **[LockScript](https://github.com/LockScript)** - ***OWNER**
+- **[MagicUI](https://github.com/magicuidesign/)** - ***Senior Advisor**
 - **[Cutz](https://github.com/CutzTeam)** - ***CTO**
 
 ### 🔝 Top Contributed Repo
